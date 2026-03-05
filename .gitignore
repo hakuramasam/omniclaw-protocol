@@ -1,3 +1,7 @@
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
 # =========================
 # Environment variables
 # =========================
@@ -69,3 +73,15 @@ coverage/
 .replit
 .replit.nix
 .vercel
+=======
+.vercel
+>>>>>>> Stashed changes
+=======
+.vercel
+>>>>>>> Stashed changes
+=======
+.vercel
+>>>>>>> Stashed changes
+=======
+.vercel
+>>>>>>> Stashed changes
